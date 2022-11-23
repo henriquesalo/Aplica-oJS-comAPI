@@ -95,7 +95,7 @@ body {
     align-items: center;
 }
 
-#details-container #umidity{
+#details-container #humidity{
     border-right: 1px solid #fdfdfd;
     margin: .6rem;
     padding: 0.6rem;
